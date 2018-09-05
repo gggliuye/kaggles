@@ -1,3 +1,4 @@
+# TIMELINE
 ##  2018/07/29
 #### first submission, 0.71, No.300
 with model v2, 50 epochs
