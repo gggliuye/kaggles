@@ -1,6 +1,8 @@
-# 2018/07/29
-first submission, 0.71, No.300
+##  2018/07/29
+#### first submission, 0.71, No.300
+
 with model v2, 50 epochs
+
 possible update:
   more epochs, as the validation loss is still reducing             ok
   take dropout to evide overfitting                                 not now
@@ -9,7 +11,7 @@ possible update:
   changing the learning rate as training
   test for the original Unet, to see if my model is good or not
 
-2018/07/30
+## 2018/07/30
 new change:
   use mean_iou as monitor
   change batch size to 64 -> 32 (resource not enough)
