@@ -37,5 +37,28 @@ with model v2, 50 epochs
 #### further thinking:
   I can change the learning rate, when it come to some local maximum -> take a larger learning rate 
 
+## 2018/09/03 test
+the kernels in kaggle all stopped at 6 hours, with the result notebook only with code(strange),
+no error offered.
+As I inferred the offical site of kaggle, I knew that kaggle has limitted the ues of kernel service
+(from 1 hours running to 6 hours running).
+So I suppose I need to use my only computer to training.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+#### Test1 50 epoch
+results in 0.6xx score(compare to the former result 0.74 with about 10 epoch or more when running in 
+kaggle kernel, with the same model and hype parameters). I think the problem belongs to overfitting.
+(even though the output loss evluation seems good).
+
+![loss](img/09_03_50epoch.PNG)
+
+## 2018/09/04
+#### Test1  25 epoch
+result in 0.71 much better than the test yesterday, but still worse than my best.
+(maybe still overfitting ?)
+
+![loss](img/09_04_25epoch_0.72.PNG)
+
+#### Test2  40 epoch with dropout
+result in 0.71 same as before need to know whether it is overfitting or not.
+
+![loss](img/09_04_40_do.PNG)
