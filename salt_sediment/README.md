@@ -36,3 +36,6 @@ with model v2, 50 epochs
 
 #### further thinking:
   I can change the learning rate, when it come to some local maximum -> take a larger learning rate 
+
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
