@@ -65,3 +65,4 @@ result in 0.71 same as before need to know whether it is overfitting or not.
 
 ## 2019/09/06
 #### Test1  30 epoch with dropout
+0.71 on changes
