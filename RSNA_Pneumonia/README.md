@@ -10,5 +10,11 @@ result in 0.00 score
 
 ## 2018/09/05
 
-using personal defined yolo like loss
 #### Test1 batch size 32, 30 epochs
+- using personal defined yolo like loss.
+- the loss of training and validation are not coverging.
+- result in 0.00 score.
+- next will be train on pertrained yolo weights.
+- if the upper change note work, will switch to segmaentation methods.
+
+## 2018/09/05
