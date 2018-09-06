@@ -62,3 +62,6 @@ result in 0.71 much better than the test yesterday, but still worse than my best
 result in 0.71 same as before need to know whether it is overfitting or not.
 
 ![loss](img/09_04_40_do.PNG)
+
+## 2019/09/06
+#### Test1  30 epoch with dropout
