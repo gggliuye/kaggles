@@ -17,4 +17,4 @@ result in 0.00 score
 - next will be train on pertrained yolo weights.
 - if the upper change note work, will switch to segmaentation methods.
 
-## 2018/09/05
+## 2018/09/
