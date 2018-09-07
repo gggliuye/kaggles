@@ -66,3 +66,11 @@ result in 0.71 same as before need to know whether it is overfitting or not.
 ## 2019/09/06
 #### Test1  30 epoch with dropout
 0.71 on changes
+
+## 2019/09/07
+#### Test dropout
+(early stop patience : 8)
+- 26 epochs, early stopped : 0.636
+- continue 16 epochs, early stopped : 0.655
+- continue 23 epcohs, early stopped:  0.644
+#### NEXT: update model
