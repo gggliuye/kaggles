@@ -17,7 +17,7 @@ result in 0.00 score
 - next will be train on pertrained yolo weights.
 - if the upper change note work, will switch to segmaentation methods.
 
-## 2018/09/
+## 2018/09/11
 #### Test1 32, 30 epochs
 - yolo like loss
 - yolo pretrained parameters (except the last layer)
