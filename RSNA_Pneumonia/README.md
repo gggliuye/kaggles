@@ -18,3 +18,9 @@ result in 0.00 score
 - if the upper change note work, will switch to segmaentation methods.
 
 ## 2018/09/
+#### Test1 32, 30 epochs
+- yolo like loss
+- yolo pretrained parameters (except the last layer)
+- result 0.02 
+- next should change the matrices.
+- should try segmentation methods
